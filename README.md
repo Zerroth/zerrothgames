@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the world of Zerroth Games
+
+Watch this space. An update will happen soon.
 
 You can use the [editor on GitHub](https://github.com/Zerroth/zerrothgames/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
